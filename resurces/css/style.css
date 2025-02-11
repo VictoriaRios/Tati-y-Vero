@@ -1,0 +1,261 @@
+html, body {
+    margin: 0; 
+    padding: 0; 
+    width: 100%; 
+    overflow-x: hidden; 
+}
+header {
+    font-family: 'Raleway', sans-serif;
+    background-color: #fe2ef8; 
+}
+.sectionHeader {
+    position: relative;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    width: 100vw; 
+    height: 30vh; 
+    background-image: url(../img/nail-art-professional-working-client-nails.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    background-position: center;
+    overflow: hidden;
+}
+
+.sectionHeader::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1; 
+}
+
+.sectionHeader h1 {
+    position: relative; 
+    z-index: 2; 
+    color: white; 
+    font-size: 10rem;
+    text-align: center; 
+    font-family: "Birthstone", cursive;
+}
+
+
+.nav {
+    display: flex;
+    gap: 20px; 
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.navbar-brand img {
+    height: 60px; 
+    margin-right: auto; 
+}
+
+.dropdown-menu{
+    background-color: #fe2ef8;
+}
+.dropdown-menu li a{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: large;
+}
+.dropdown-menu li :hover {
+    background-color: #8638CC;
+    color: white;
+}
+
+/*INICIO*/
+.container-inicio{
+    background-image:url(../img/) ;
+}
+
+/* Ajusta el contenedor de la tarjeta */
+.card {
+    margin: 0%;
+    padding: 0%;
+    border: none;
+    overflow: hidden;
+    z-index: 1;
+    position: relative;
+}
+
+/* Imagen de la tarjeta */
+.card img {
+        z-index: 1;
+    width: 100%;
+    height: 40vh; 
+    object-fit: cover; 
+}
+
+/* Superposición para el texto y botón */
+.card-img-overlay {
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0;
+}
+
+/* Título sobre la imagen */
+.card-title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+    color: white;
+    text-transform: uppercase;
+    background-color: rgba(0, 0, 0, 0.253); 
+    text-align: center;
+    margin: 0;
+    padding: 15px;
+}
+
+/* Botón sobre la imagen */
+.btn {
+    font-family: 'Raleway', sans-serif;
+    background-color: #8638CC;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 50%; 
+    align-self: center; 
+    margin-bottom: 10px; 
+    z-index: 3; 
+    pointer-events: auto; 
+}
+
+.btn:hover {
+    background-color: rgb(115, 30, 194);
+    color: white;
+}
+/*UÑAS*/
+.titleServicios{
+    font-family: "Birthstone", cursive;
+    font-size: 4rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.tabla td {
+    font-family: 'Raleway', sans-serif;
+    font-size: x-large;
+    letter-spacing: 2px;
+    border-bottom: 1px solid #202020;
+    width: 50%; /* Asegúrate de que cada columna ocupe la mitad de la tabla */
+    text-align: center; /* Alineación centrada */   
+}
+
+
+.nombre-borde {
+    padding-left: 1rem; 
+    border-right: 1px solid #202020;
+}
+
+.precio-borde {
+    padding-right: 1rem;
+    border-left: 1px solid #202020;
+}
+
+
+
+.pUñas{
+    color: #8638CC;
+
+}
+
+
+/*CONTACTO*/
+.h1Contacto{
+    margin-bottom: 5rem;
+    font-family: "Birthstone", cursive;
+    font-size: 4rem;
+}
+form label{
+    font-family: 'Raleway', sans-serif;
+}
+.inputContacto{
+    border: 2px solid #8638CC;
+    border-radius: 1rem;
+    width: 30rem;
+    height: 2.5rem;
+    text-align: center;
+    margin-left: 15rem;
+}
+.divBtn .btn{
+    width: 10rem;
+    margin-bottom: 5rem;
+}
+.hover-shadow{
+    background-color: #8638CC;
+}
+/*ALERT*/
+#autoDismissAlert {
+    max-width: 600px; /* Ajusta este valor según el tamaño deseado */
+    margin: 0 auto; /* Centra el alert */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Agrega un efecto de sombra */
+}
+
+
+/*NOSOTRAS*/
+.profile-img {
+    width: 15rem; 
+    height: 15rem;
+    object-fit: cover;
+    border: none; 
+    position: relative; /* Necesario para usar top */
+    margin-bottom: -20px;
+    z-index: 10; /* Asegura que estén encima del texto */
+}
+
+/* Caja de texto */
+.info-box {
+    border: 2px solid #8638CC; 
+    border-radius: 15px;
+    background-color: #fff;
+    color: #000; 
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.5;
+    display: inline-block;
+    padding: 3%;
+
+}
+
+/* Centrado del texto */
+.info-box p {
+    margin: 0;
+    font-size: 1.5rem; 
+}
+
+/*SERVICIOS*/
+.title{
+    margin-bottom: 5rem;
+    font-family: "Birthstone", cursive;
+    font-size: 4rem;
+    text-align: center;
+}
+
+/*FOOTER*/
+
+footer{
+    font-family: 'Raleway', sans-serif;
+    background-color: #fe2ef8; 
+    height: 10vh;
+}
+
+
+
