@@ -1,0 +1,61 @@
+.login{
+    background-image: url('../img/manicura.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.titleServicios{
+    font-family: "Birthstone", cursive;
+    font-size: 4rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    background-color: rgba(255, 255, 255, 0.743);
+    color: #8638CC;
+    padding: 1rem;
+}
+.title{
+    font-family: "Birthstone", cursive;
+    font-size: 4rem;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#btn-icono {
+    position: relative; /* Para que el texto se posicione dentro del botón */
+     /* Para hacer espacio a la derecha donde aparecerá el texto */
+}
+
+#btn-texto {
+    opacity: 0; /* Inicialmente oculto */
+    visibility: hidden; /* No ocupa espacio */
+    transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out; /* Transición suave para opacidad y desplazamiento */
+    transform: translateX(10px); /* Desplazado ligeramente hacia la derecha inicialmente */
+    white-space: nowrap; /* Evita que el texto haga saltos de línea */
+    background-color: rgba(255, 255, 255, 0.9); /* Fondo semitransparente */
+    padding: 0 5px; /* Espaciado alrededor del texto */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+#btn-icono:hover #btn-texto {
+    opacity: 1; /* Hace visible el texto al hacer hover */
+    visibility: visible; /* Lo hace visible */
+    transform: translateX(20px); /* Desplaza el texto más hacia la derecha */
+}
+
+.iconoPersona{
+    width: 20vw;
+}
+.tablaAgregar{
+    margin-top:5%;
+    border: 2px solid black;
+    border-radius: 2rem;
+    box-shadow: 20px 10px rgba(0, 0, 0, 0.208);
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
+

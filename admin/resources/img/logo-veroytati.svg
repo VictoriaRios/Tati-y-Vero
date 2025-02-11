@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="462pt"
+   height="649pt"
+   viewBox="0 0 162.98333 228.95278"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="logo-veroytati.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#f0f0f0"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="82.731493"
+     inkscape:cy="318.90516"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer5" />
+  <defs
+     id="defs1">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern14"
+       patternTransform="scale(0.01)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="10"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_1"
+       style="fill:#8307f7"
+       inkscape:stockid="Stripes 01 (1:1)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 01 (1:1)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="11"
+         id="rect134" />
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath33">
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:bevel;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect33"
+         width="46.19186"
+         height="80.006783"
+         x="74.999985"
+         y="399.99661" />
+    </clipPath>
+    <linearGradient
+       id="swatch10"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Logo2"
+     transform="translate(0.03307292,-0.81028646)"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="T 1">
+      <text
+         xml:space="preserve"
+         style="font-size:2.75653px;line-height:0;font-family:'Segoe UI Symbol';-inkscape-font-specification:'Segoe UI Symbol';fill:#ff2ef9;fill-opacity:1;stroke:#ff2ef9;stroke-width:0.0195345;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         x="2.1387284"
+         y="4.1146789"
+         id="text1-6"
+         transform="scale(1.0741214,0.93099345)"
+         inkscape:label="text1-6"><tspan
+           sodipodi:role="line"
+           id="tspan1-2"
+           style="fill:#ff2ef9;fill-opacity:1;stroke:#ff2ef9;stroke-width:0.0195345;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           x="2.1387284"
+           y="4.1146789">T</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="V 1">
+      <text
+         xml:space="preserve"
+         style="font-size:2.44538px;line-height:0;font-family:'Segoe UI Symbol';-inkscape-font-specification:'Segoe UI Symbol';fill:#8639ce;fill-opacity:1;stroke:#8639ce;stroke-width:0.0173294;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         x="2.3651299"
+         y="3.9186943"
+         id="text2-5"
+         transform="scale(0.98416121,1.0160937)"><tspan
+           sodipodi:role="line"
+           id="tspan2-1"
+           style="fill:#8639ce;fill-opacity:1;stroke:#8639ce;stroke-width:0.0173294;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+           x="2.3651299"
+           y="3.9186943">V</tspan></text>
+    </g>
+    <g
+       inkscape:label="Bordes"
+       inkscape:groupmode="layer"
+       id="layer1">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0206375;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 2.3449154,2.0287599 -0.0031,0.1963704 0.6097813,1.7694011 0.2356446,0.00103 0.6283854,-1.7797328 -0.00207,-0.1984375 z"
+         id="path2-1" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0206375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 2.5743587,2.2333985 0.3679362,1.0934733 1e-7,-1.0934733 z"
+         id="path3-2" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0206375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 3.5841162,2.232365 H 3.2058447 l 0.00103,1.0883057 -0.1364222,0.414445 z"
+         id="path4-3" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.0206375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 2.9412614,3.3227377 3.069419,3.7402833"
+         id="path5-3" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Logo1"
+     transform="matrix(1.7505529,0,0,2.1248755,-0.97183495,-0.27973433)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="T">
+      <text
+         xml:space="preserve"
+         style="font-size:124.269px;line-height:0;font-family:'Segoe UI Symbol';-inkscape-font-specification:'Segoe UI Symbol';opacity:1;fill:#8639ce;fill-opacity:1;stroke:#8639ce;stroke-width:0.880648;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         x="8.1373243"
+         y="97.143105"
+         id="text1"
+         transform="scale(1.1143194,0.89740875)"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="fill:#8639ce;fill-opacity:1;stroke:#8639ce;stroke-width:0.880648;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           x="8.1373243"
+           y="97.143105">T</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="V">
+      <text
+         xml:space="preserve"
+         style="font-size:110.242px;line-height:0;font-family:'Segoe UI Symbol';-inkscape-font-specification:'Segoe UI Symbol';opacity:1;fill:#ff2ef9;fill-opacity:1;stroke:#ff2ef9;stroke-width:0.781238;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         x="10.27438"
+         y="95.707619"
+         id="text2"
+         transform="scale(1.0209926,0.97943904)"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="fill:#ff2ef9;fill-opacity:1;stroke:#ff2ef9;stroke-width:0.781238;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+           x="10.27438"
+           y="95.707619">V</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="bordes">
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.930372;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 11.296644,8.8713304 11.151336,17.404684 39.670098,94.294748 50.690914,94.338678 80.07977,16.999634 79.9829,8.3764594 Z"
+         id="path2" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.930372;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 22.027429,17.763972 17.207953,47.51734 v -47.51734 z"
+         id="path3" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.930372;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 69.252618,17.719073 H 51.561299 l 0.04844,47.292772 -6.380298,18.009894 z"
+         id="path4" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.930372;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 39.187044,65.101668 5.993783,18.144616"
+         id="path5" />
+    </g>
+  </g>
+</svg>
